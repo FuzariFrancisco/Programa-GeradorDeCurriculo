@@ -1,0 +1,136 @@
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+C:\Users\francisco.hsfsouza\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
+D:\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+D:\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+D:\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+D:\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+D:\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+D:\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+D:\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+D:\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+D:\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+D:\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Chacal\Desktop\Saves\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\ProjetosTrabalhos\NaoFinalizados\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+C:\Users\Chacal\Desktop\MeusProjetosPessoais\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+C:\Users\Eu anulo\Documents\Repositórios\Linguagens-Programacao\Linguagens-Programacao\C#\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe.config
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\Iniciacao.exe
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\Iniciacao.pdb
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\PdfSharp.dll
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\PdfSharp.xml
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csprojAssemblyReference.cache
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Form1.resources
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.Properties.Resources.resources
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.GenerateResource.cache
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CoreCompileInputs.cache
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.csproj.CopyComplete
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.exe
+C:\Users\Eu anulo\Documents\Repositórios\Programa-GeradorDeCurriculo\GerarPDF\Iniciacao\obj\Debug\Iniciacao.pdb
